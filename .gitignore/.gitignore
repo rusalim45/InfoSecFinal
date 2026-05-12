@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Orchard Core data & cache
+App_Data/
+wwwroot/Default/
+
+# IDE
+.vs/
+*.user
+
+# Environment
+.env
+appsettings.Development.json
