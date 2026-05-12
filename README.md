@@ -173,13 +173,13 @@ After setup, go to **Admin → Design → Templates** and restore the Liquid tem
 
 ## 🎥 Demo Video
 
-▶️ [Watch Demo]((https://drive.google.com/file/d/1P3pmWtzhmPe89Fvn0e4LLMhrccXR10EM/view?usp=sharing))
+▶️ [Watch Demo](https://drive.google.com/file/d/1P3pmWtzhmPe89Fvn0e4LLMhrccXR10EM/view?usp=sharing)
 
 ---
 
 ## 👨‍🏫 Feedback
 
-▶️ [Feedback Video]((https://drive.google.com/file/d/1P3pmWtzhmPe89Fvn0e4LLMhrccXR10EM/view?usp=sharing))
+▶️ [Feedback Video](https://drive.google.com/file/d/1P3pmWtzhmPe89Fvn0e4LLMhrccXR10EM/view?usp=sharing)
 
 *Feedback provided by , SFW Department, AUCA*
 
